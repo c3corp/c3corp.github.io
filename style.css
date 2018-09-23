@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "futura_medium_bt";
+  src: url("https://cdn.rawgit.com/c3corp/c3corp.github.io/14116b0e/futura_medium_bt-webfont.woff")
+    format("woff");
+}
+body {
+  background-color: black;
+}
+#c3 {
+  font-family: "futura_medium_bt";
+  font-weight: bold;
+  font-size: 100px;
+  color: white;
+}
+li {
+  display: inline;
+}
+i {
+  color: #fff;
+  font-size: 50px;
+  width: 100px;
+  text-decoration: none;
+  transition: all 0.5s ease-in-out;
+}
+.fa-soundcloud {
+  color: #f80;
+}
+.fa-instagram {
+  color: #b23c94;
+}
+.fa-twitter {
+  color: #55acee;
+}
+.fa-youtube {
+  color: #e52d27;
+}
